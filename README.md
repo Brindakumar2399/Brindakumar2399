@@ -2,7 +2,7 @@
 # 👋 Hi, I'm Brinda Kumar  
 
 🎓 MS in Computer Science at Syracuse University (May 2025)  
-📊 Data Analyst | Marketing Analytics | BI Developer  
+📊 Data Scientist| Data Analyst | Marketing Analytics | BI Developer  
 🌍 Based in New York, USA | Originally from Bangalore, India  
 ✉️ brindakumar2399@gmail.com | [LinkedIn](http://www.linkedin.com/in/brindakumar) | [Portfolio](https://www.notion.so/Brinda-Kumar-27a7222d8825800fb7d7ee60bd5ce12f) | [GitHub](https://github.com/Brindakumar2399)  
 
@@ -10,32 +10,42 @@
 
 ## 💼 Experience Snapshot  
 
-🔬 **ML Analyst — iSchool Syracuse University, NY**  
-*Jan 2025 – Present*  
-- Built ML models in Python (BERT & Regression) on 250K+ tweets, achieving 87% accuracy in misinformation classification  
-- Created Tableau dashboards to visualize engagement & sentiment trends, improving clarity of campaign research insights by 30%  
+🔬 **Data Scientist — Syracuse University, NY**
+*Jan 2025 – Present*
 
-🏟️ **Marketing Data Analyst — Sidearm Sports, NY**  
-*May 2024 – Aug 2024*  
-- Built SQL + Tableau dashboards to track fan insights across 200+ sports sites, boosting sponsor ROI by 22%  
-- Analyzed traffic funnels & engagement trends, raising campaign reach by 14% and conversion rates by 18%  
+Analyzed 11K+ tweets using Python (BERT, text classification, quantile regression) to detect misinformation, improving model accuracy by 18 percent
 
-🌍 **Marketing Data Analyst — Accenture, India**  
-*Jul 2021 – Jul 2023*  
-- Analyzed 2M+ traveler records using SQL & Python to uncover booking trends, improving campaign conversions by 18%  
-- Designed digital campaign dashboards in Power BI, increasing visibility by 40% and accelerating strategy pivots  
-- Optimized $2M+ media spend through cohort analysis and purchase behavior modeling, improving ROI by 23%  
+Mapped interactions among 381 users to uncover behavioral clusters and identify four key misinformation-spread roles
 
-📱 **Digital Marketing & Growth Analyst — Instagram/YouTube, India**  
-*Feb 2020 – Jul 2023*  
-- Led content strategy for 10+ brands, increasing collective follower base by 60% and reach by 120%  
-- Increased campaign ROI by 40% through A/B testing of thumbnails, metadata, and post cadence  
+🏟️ **Data Analyst — Sidearm Sports, NY**
+*May 2024 – Aug 2024*
 
-🛒 **Digital Data Analyst — Avila IT Services, India**  
-*Nov 2020 – Jan 2021*  
-- Analyzed 100K+ user sessions via SQL & Python to identify cart drop-offs, improving checkout conversion by 21%  
-- Built Power BI dashboards for campaign ROI, enabling 30% better budget allocation  
+Built SQL + Tableau dashboards for sport engagement trends, increasing fan interaction by 10 percent
 
+Integrated metadata with Google Analytics to create unified datasets, reducing reporting time by 8 hours per week
+
+🌍 **Data Scientist — Accenture, India**
+*Jul 2021 – Jul 2023*
+
+Built hybrid time-series and random forest models in Python, improving route-level demand accuracy by 14 percent
+
+Modeled food-waste trends and applied Newsvendor optimization, reducing catering spend by 10 percent
+
+Designed geo-based A/B tests across 210 DMAs using synthetic control and Bayesian time-series models to measure incremental lift
+
+📱 **Digital Marketing Analyst — Instagram (Freelance), India**
+*Nov 2020 – Jan 2021*
+
+Supported 10+ lifestyle and e-commerce brands, growing collective followers by 65 percent and reach by 120 percent
+
+Built Power BI dashboards for KPI tracking (CTR, retention, monetization), improving decision-making by 25 percent
+
+🛒 **Data Analyst — Avila IT Services, India**
+*Nov 2020 – Jan 2021*
+
+Automated resume parsing with Python NLP and NER, reducing shortlisting time by 60 percent
+
+Built Power BI dashboards to query candidates by skill and topic, improving search precision and reducing manual effort
 ---
 
 ## 🛠️ Skills & Tools  
