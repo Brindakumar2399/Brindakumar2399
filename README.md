@@ -33,8 +33,8 @@ Modeled food-waste trends and applied Newsvendor optimization, reducing catering
 
 Designed geo-based A/B tests across 210 DMAs using synthetic control and Bayesian time-series models to measure incremental lift
 
-📱 **Digital Marketing Analyst — Instagram (Freelance), India**
-*Nov 2020 – Jan 2021*
+📱 **Digital Data Analyst — Instagram (Freelance), India**
+*Nov 2019 – Jan 2021*
 
 Supported 10+ lifestyle and e-commerce brands, growing collective followers by 65 percent and reach by 120 percent
 
@@ -43,9 +43,10 @@ Built Power BI dashboards for KPI tracking (CTR, retention, monetization), impro
 🛒 **Data Analyst — Avila IT Services, India**
 *Nov 2020 – Jan 2021*
 
+Built Power BI dashboards enabling precise candidate search by skills, topics, and role attributes
+
 Automated resume parsing with Python NLP and NER, reducing shortlisting time by 60 percent
 
-Built Power BI dashboards to query candidates by skill and topic, improving search precision and reducing manual effort
 ---
 
 ## 🛠️ Skills & Tools  
