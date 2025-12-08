@@ -41,7 +41,7 @@ Supported 10+ lifestyle and e-commerce brands, growing collective followers by 6
 Built Power BI dashboards for KPI tracking (CTR, retention, monetization), improving decision-making by 25 percent
 
 🛒 **Data Analyst — Avila IT Services, India**
-*Nov 2020 – Jan 2021*
+*Nov 2020 – Jan 2023*
 
 Built Power BI dashboards enabling precise candidate search by skills, topics, and role attributes
 
