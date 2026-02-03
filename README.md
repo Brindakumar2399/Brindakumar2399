@@ -10,42 +10,58 @@
 
 ## 💼 Experience Snapshot  
 
-🔬 **Data Scientist — Syracuse University, NY**
-*Jan 2025 – Present*
+Data Analyst | Syracuse University                                                          Jan 2025 – Present
 
-Analyzed 11K+ tweets using Python (BERT, text classification, quantile regression) to detect misinformation, improving model accuracy by 18 percent
+Process large-scale media datasets using Python (Pandas, NLP) and data mining to detect misinformation patterns
 
-Mapped interactions among 381 users to uncover behavioral clusters and identify four key misinformation-spread roles
+Built statistical regression & network analysis models in R, improving detection F1-score from 0.61 → 0.75
 
-🏟️ **Data Analyst — Sidearm Sports, NY**
-*May 2024 – Aug 2024*
+Ran A/B experiments comparing dictionary-based vs BERT NLP models, increasing moral-content detection accuracy by 18%
 
-Built SQL + Tableau dashboards for sport engagement trends, increasing fan interaction by 10 percent
+Performed predictive root cause analysis on interaction graphs, enabling 28% improvement in mitigation decisions
 
-Integrated metadata with Google Analytics to create unified datasets, reducing reporting time by 8 hours per week
 
-🌍 **Data Scientist — Accenture, India**
-*Jul 2021 – Jul 2023*
+Business Intelligence Analyst — Sidearm Sports                                                May 2024 – Aug 2024
 
-Built hybrid time-series and random forest models in Python, improving route-level demand accuracy by 14 percent
+Engineered a unified analytics dataset (SQL + metadata + web analytics), reducing reporting time by 12+ hrs/week
 
-Modeled food-waste trends and applied Newsvendor optimization, reducing catering spend by 10 percent
+Analyzed engagement trends using Python, driving editorial strategy decisions
 
-Designed geo-based A/B tests across 210 DMAs using synthetic control and Bayesian time-series models to measure incremental lift
+Built Tableau KPI dashboards, reducing manual reporting workload by 40%
 
-📱 **Digital Data Analyst — Instagram (Freelance), India**
-*Nov 2019 – Jan 2021*
+Identified optimal content timing & video performance patterns, boosting fan engagement 35%
 
-Supported 10+ lifestyle and e-commerce brands, growing collective followers by 65 percent and reach by 120 percent
+Business Intelligence Analyst — Accenture                                                   Jul 2021 – Jul 2023
 
-Built Power BI dashboards for KPI tracking (CTR, retention, monetization), improving decision-making by 25 percent
+Forecasted airline demand using Python, SQL, and time-series modeling, improving load forecast accuracy 18%
 
-🛒 **Data Analyst — Avila IT Services, India**
-*Nov 2020 – Jan 2023*
+Designed seasonality-aware regression models, improving route planning reliability 22%
 
-Built Power BI dashboards enabling precise candidate search by skills, topics, and role attributes
+Developed AWS ETL pipelines & data warehouse models, improving reporting quality 30%
 
-Automated resume parsing with Python NLP and NER, reducing shortlisting time by 60 percent
+Optimized in-flight catering demand using analytics, reducing cost by $1.2M and minimizing wastage
+
+Built Power BI & Tableau dashboards for inventory/cost KPIs, reducing planning cycle time 35%
+
+Designed geo-based incremental A/B tests in SQL/Python, improving marketing budget allocation 25%
+
+
+Data Analyst — Avila IT Services                                                           Nov 2020 – Jan 2021
+
+Transformed multi-source resume data using SQL pipelines, increasing screening throughput 35%
+
+Built Tableau recruiter dashboards, reducing manual review workload 40%
+
+Automated resume screening workflows, cutting shortlisting time from 1 week → 2 days
+
+
+Marketing Data Analyst — Instagram & YouTube Content Analytics
+
+Analyzed social platform performance using Excel, Power Query, and engagement metrics, increasing reach & session duration 22%
+
+Built Looker dashboards for KPI tracking, reducing performance review time 40%
+
+Partnered with creators & brands to translate analytics into growth strategies, increasing engagement 35%
 
 ---
 
