@@ -20,9 +20,8 @@ Ran A/B experiments comparing dictionary-based vs BERT NLP models, increasing mo
 
 Performed predictive root cause analysis on interaction graphs, enabling 28% improvement in mitigation decisions
 
----
 
-Business Intelligence Analyst — Sidearm Sports                                                May 2024 – Aug 2024
+Business Intelligence Analyst | Sidearm Sports                                                May 2024 – Aug 2024
 
 Engineered a unified analytics dataset (SQL + metadata + web analytics), reducing reporting time by 12+ hrs/week
 
@@ -32,7 +31,8 @@ Built Tableau KPI dashboards, reducing manual reporting workload by 40%
 
 Identified optimal content timing & video performance patterns, boosting fan engagement 35%
 
-Business Intelligence Analyst — Accenture                                                   Jul 2021 – Jul 2023
+
+Business Intelligence Analyst | Accenture                                                   Jul 2021 – Jul 2023
 
 Forecasted airline demand using Python, SQL, and time-series modeling, improving load forecast accuracy 18%
 
@@ -46,9 +46,8 @@ Built Power BI & Tableau dashboards for inventory/cost KPIs, reducing planning c
 
 Designed geo-based incremental A/B tests in SQL/Python, improving marketing budget allocation 25%
 
----
 
-Data Analyst — Avila IT Services                                                           Nov 2020 – Jan 2021
+Data Analyst | Avila IT Services                                                           Nov 2020 – Jan 2021
 
 Transformed multi-source resume data using SQL pipelines, increasing screening throughput 35%
 
@@ -56,9 +55,8 @@ Built Tableau recruiter dashboards, reducing manual review workload 40%
 
 Automated resume screening workflows, cutting shortlisting time from 1 week → 2 days
 
----
 
-Marketing Data Analyst — Instagram & YouTube Content Analytics
+Marketing Data Analyst | Instagram & YouTube Content Analytics
 
 Analyzed social platform performance using Excel, Power Query, and engagement metrics, increasing reach & session duration 22%
 
