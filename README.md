@@ -18,8 +18,6 @@
 - Ran A/B experiments comparing dictionary-based vs BERT NLP models, increasing moral-content detection accuracy by 18%
 - Performed predictive root cause analysis on interaction graphs, enabling 28% improvement in mitigation decisions
 
-<br>
-
 📊 **Business Intelligence Analyst | Sidearm Sports, NY**                                                
 *May 2024 – Aug 2024*
 
@@ -27,8 +25,6 @@
 - Analyzed engagement trends using Python, driving editorial strategy decisions
 - Built Tableau KPI dashboards, reducing manual reporting workload by 40%
 - Identified optimal content timing & video performance patterns, boosting fan engagement 35%
-
-<br>
 
 🚀 **Business Intelligence Analyst | Accenture**                                                  
 *Jul 2021 – Jul 2023*
@@ -40,16 +36,12 @@
 - Built Power BI & Tableau dashboards for inventory/cost KPIs, reducing planning cycle time 35%
 - Designed geo-based incremental A/B tests in SQL/Python, improving marketing budget allocation 25%
 
-<br>
-
 🗂️ **Data Analyst | Avila IT Services**                                                           
 *Nov 2020 – Jan 2021*
 
 - Transformed multi-source resume data using SQL pipelines, increasing screening throughput 35%
 - Built Tableau recruiter dashboards, reducing manual review workload 40%
 - Automated resume screening workflows, cutting shortlisting time from 1 week → 2 days
-
-<br>
 
 📱 **Marketing Data Analyst | Instagram & YouTube Content Analytics**                             
 *Nov 2020 - Jan 2023*
