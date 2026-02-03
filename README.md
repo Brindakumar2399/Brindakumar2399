@@ -12,57 +12,42 @@
 
 **Data Analyst | Syracuse University, NY**                                                         *Jan 2025 – Present*
 
-Process large-scale media datasets using Python (Pandas, NLP) and data mining to detect misinformation patterns
-
-Built statistical regression & network analysis models in R, improving detection F1-score from 0.61 → 0.75
-
-Ran A/B experiments comparing dictionary-based vs BERT NLP models, increasing moral-content detection accuracy by 18%
-
-Performed predictive root cause analysis on interaction graphs, enabling 28% improvement in mitigation decisions
+- Process large-scale media datasets using Python (Pandas, NLP) and data mining to detect misinformation patterns
+- Built statistical regression & network analysis models in R, improving detection F1-score from 0.61 → 0.75
+- Ran A/B experiments comparing dictionary-based vs BERT NLP models, increasing moral-content detection accuracy by 18%
+- Performed predictive root cause analysis on interaction graphs, enabling 28% improvement in mitigation decisions
 
 
 **Business Intelligence Analyst | Sidearm Sports, NY**                                                *May 2024 – Aug 2024*
 
-Engineered a unified analytics dataset (SQL + metadata + web analytics), reducing reporting time by 12+ hrs/week
-
-Analyzed engagement trends using Python, driving editorial strategy decisions
-
-Built Tableau KPI dashboards, reducing manual reporting workload by 40%
-
-Identified optimal content timing & video performance patterns, boosting fan engagement 35%
+- Engineered a unified analytics dataset (SQL + metadata + web analytics), reducing reporting time by 12+ hrs/week
+- Analyzed engagement trends using Python, driving editorial strategy decisions
+- Built Tableau KPI dashboards, reducing manual reporting workload by 40%
+- Identified optimal content timing & video performance patterns, boosting fan engagement 35%
 
 
 **Business Intelligence Analyst | Accenture**                                                   *Jul 2021 – Jul 2023*
 
-Forecasted airline demand using Python, SQL, and time-series modeling, improving load forecast accuracy 18%
-
-Designed seasonality-aware regression models, improving route planning reliability 22%
-
-Developed AWS ETL pipelines & data warehouse models, improving reporting quality 30%
-
-Optimized in-flight catering demand using analytics, reducing cost by $1.2M and minimizing wastage
-
-Built Power BI & Tableau dashboards for inventory/cost KPIs, reducing planning cycle time 35%
-
-Designed geo-based incremental A/B tests in SQL/Python, improving marketing budget allocation 25%
+- Forecasted airline demand using Python, SQL, and time-series modeling, improving load forecast accuracy 18%
+- Designed seasonality-aware regression models, improving route planning reliability 22%
+- Developed AWS ETL pipelines & data warehouse models, improving reporting quality 30%
+- Optimized in-flight catering demand using analytics, reducing cost by $1.2M and minimizing wastage
+- Built Power BI & Tableau dashboards for inventory/cost KPIs, reducing planning cycle time 35%
+- Designed geo-based incremental A/B tests in SQL/Python, improving marketing budget allocation 25%
 
 
 **Data Analyst | Avila IT Services**                                                           *Nov 2020 – Jan 2021*
 
-Transformed multi-source resume data using SQL pipelines, increasing screening throughput 35%
-
-Built Tableau recruiter dashboards, reducing manual review workload 40%
-
-Automated resume screening workflows, cutting shortlisting time from 1 week → 2 days
+- Transformed multi-source resume data using SQL pipelines, increasing screening throughput 35%
+- Built Tableau recruiter dashboards, reducing manual review workload 40%
+- Automated resume screening workflows, cutting shortlisting time from 1 week → 2 days
 
 
 **Marketing Data Analyst | Instagram & YouTube Content Analytics**                             *Nov 2020 - Jan 2023*
 
-Analyzed social platform performance using Excel, Power Query, and engagement metrics, increasing reach & session duration 22%
-
-Built Looker dashboards for KPI tracking, reducing performance review time 40%
-
-Partnered with creators & brands to translate analytics into growth strategies, increasing engagement 35%
+- Analyzed social platform performance using Excel, Power Query, and engagement metrics, increasing reach & session duration 22%
+- Built Looker dashboards for KPI tracking, reducing performance review time 40%
+- Partnered with creators & brands to translate analytics into growth strategies, increasing engagement 35%
 
 ---
 
