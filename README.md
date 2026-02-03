@@ -20,6 +20,7 @@ Ran A/B experiments comparing dictionary-based vs BERT NLP models, increasing mo
 
 Performed predictive root cause analysis on interaction graphs, enabling 28% improvement in mitigation decisions
 
+---
 
 Business Intelligence Analyst — Sidearm Sports                                                May 2024 – Aug 2024
 
@@ -45,6 +46,7 @@ Built Power BI & Tableau dashboards for inventory/cost KPIs, reducing planning c
 
 Designed geo-based incremental A/B tests in SQL/Python, improving marketing budget allocation 25%
 
+---
 
 Data Analyst — Avila IT Services                                                           Nov 2020 – Jan 2021
 
@@ -54,6 +56,7 @@ Built Tableau recruiter dashboards, reducing manual review workload 40%
 
 Automated resume screening workflows, cutting shortlisting time from 1 week → 2 days
 
+---
 
 Marketing Data Analyst — Instagram & YouTube Content Analytics
 
