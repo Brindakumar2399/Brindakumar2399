@@ -2,7 +2,7 @@
 # 👋 Hi, I'm Brinda Kumar  
 
 🎓 MS in Computer Science at Syracuse University (May 2025)  
-📊 Data Analyst | Business Intelligence | Data Scientist | Marketing Analytics |
+📊 Data Analyst | Business Intelligence | Data Scientist | Marketing Analytics <br>
 🌍 Based in New York, USA | Originally from Bangalore, India  
 ✉️ brindakumar2399@gmail.com | [LinkedIn](http://www.linkedin.com/in/brindakumar) | [Portfolio](https://www.notion.so/Brinda-Kumar-27a7222d8825800fb7d7ee60bd5ce12f) | [GitHub](https://github.com/Brindakumar2399)  
 
