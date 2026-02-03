@@ -2,7 +2,7 @@
 # 👋 Hi, I'm Brinda Kumar  
 
 🎓 MS in Computer Science at Syracuse University (May 2025)  
-📊 Data Scientist| Data Analyst | Marketing Analytics | BI Developer  
+📊 Data Analyst | Business Intelligence | Data Scientist | Marketing Analytics 
 🌍 Based in New York, USA | Originally from Bangalore, India  
 ✉️ brindakumar2399@gmail.com | [LinkedIn](http://www.linkedin.com/in/brindakumar) | [Portfolio](https://www.notion.so/Brinda-Kumar-27a7222d8825800fb7d7ee60bd5ce12f) | [GitHub](https://github.com/Brindakumar2399)  
 
@@ -10,7 +10,7 @@
 
 ## 💼 Experience Snapshot  
 
-**Data Analyst | Syracuse University, NY**                                                         
+🧠**Data Analyst | Syracuse University, NY**                                                         
 *Jan 2025 – Present*
 
 - Process large-scale media datasets using Python (Pandas, NLP) and data mining to detect misinformation patterns
@@ -19,7 +19,7 @@
 - Performed predictive root cause analysis on interaction graphs, enabling 28% improvement in mitigation decisions
 
 
-**Business Intelligence Analyst | Sidearm Sports, NY**                                                
+📊**Business Intelligence Analyst | Sidearm Sports, NY**                                                
 *May 2024 – Aug 2024*
 
 - Engineered a unified analytics dataset (SQL + metadata + web analytics), reducing reporting time by 12+ hrs/week
@@ -28,7 +28,7 @@
 - Identified optimal content timing & video performance patterns, boosting fan engagement 35%
 
 
-**Business Intelligence Analyst | Accenture**                                                  
+🚀**Business Intelligence Analyst | Accenture**                                                  
 *Jul 2021 – Jul 2023*
 
 - Forecasted airline demand using Python, SQL, and time-series modeling, improving load forecast accuracy 18%
@@ -39,7 +39,7 @@
 - Designed geo-based incremental A/B tests in SQL/Python, improving marketing budget allocation 25%
 
 
-**Data Analyst | Avila IT Services**                                                           
+🗂️**Data Analyst | Avila IT Services**                                                           
 *Nov 2020 – Jan 2021*
 
 - Transformed multi-source resume data using SQL pipelines, increasing screening throughput 35%
@@ -47,7 +47,7 @@
 - Automated resume screening workflows, cutting shortlisting time from 1 week → 2 days
 
 
-**Marketing Data Analyst | Instagram & YouTube Content Analytics**                             
+📱**Marketing Data Analyst | Instagram & YouTube Content Analytics**                             
 *Nov 2020 - Jan 2023*
 
 - Analyzed social platform performance using Excel, Power Query, and engagement metrics, increasing reach & session duration 22%
