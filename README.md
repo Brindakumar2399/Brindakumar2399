@@ -64,11 +64,10 @@
 
 ## 📖 Knowledge Areas
 
-* **Data Analytics**: Data Modeling, Data Mining, Statistical Analysis, Regression Analysis, Predictive Analytics, Forecasting, A B Testing, Exploratory Data Analysis, Behavioral Analysis, Trend Analysis, Data Transformation, Experiment Analysis
-* **Business Intelligence**: Data Warehousing, KPI Design, Dashboard Development, Ad Hoc Reporting, Data Visualization, Performance Monitoring, Data Integration, Decision Support, Requirements Analysis
-* **Business Communication**: Stakeholder Management, Requirements Gathering, Data Storytelling, Insight Presentation, Root Cause Analysis, Business Impact Analysis, Cross Functional Collaboration
+* **Data Analytics**: Data Modeling, Statistical Analysis, Forecasting, A B Testing, Behavioral Analysis
+* **Business Intelligence**: Data Warehousing, KPI Design, Dashboard Development, Performance Monitoring, Decision Support
+* **Business Communication**: Stakeholder Management, Requirements Gathering, Data Storytelling, Business Impact Analysis
 * **Marketing Strategy**: Campaign ROI, KPI Frameworks, Funnel Optimization, A/B Testing, Consumer Segmentation, SEO
-* **Databases & Cloud**: MySQL, SQL Server, Data Warehousing, ETL Pipelines, AWS (S3, DynamoDB), GCP, ER Modeling
 
 ---
 
