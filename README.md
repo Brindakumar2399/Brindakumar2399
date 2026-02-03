@@ -54,17 +54,16 @@
 
 ## 🛠️ Skills & Tools  
 
-- **Languages & Data**: SQL, Python (Pandas, NumPy, Matplotlib), R, T-SQL  
-- **Visualization**: Power BI, Tableau, Excel (PivotTables, VLOOKUP), Illustrator  
-- **Cloud & Infra**: AWS (S3, DynamoDB), GCP, Data Warehousing, ETL Pipelines  
-- **Techniques**: A/B Testing, Regression, Clustering, Consumer Segmentation, NLP  
+- **Languages**: SQL, T/SQL, Python (Pandas, NumPy, Matplotlib), R, PL/SQL
+- **Visualization**: Power BI, Tableau, Looker, Excel (Advanced Excel, PivotTables, VLOOKUP), Google Sheets, SSRS, Qlik View, Illustrator
+- **Cloud & Infra**: AWS (S3, DynamoDB), GCP, Data Warehousing, ETL Pipelines, dbt, SSIS, Informatica, Power Query 
 - **Media Analytics**: Google Analytics, YouTube Studio, Social Media Analytics, Instagram Insights  
 
 ---
 
 ## 📖 Knowledge Areas
 
-* **Data Analytics**: Data Modeling, Statistical Analysis, Forecasting, A B Testing, Behavioral Analysis
+* **Data Analytics**: Data Modeling, Statistical Analysis, Forecasting, A/B Testing, Behavioral Analysis, Regression, Clustering
 * **Business Intelligence**: Data Warehousing, KPI Design, Dashboard Development, Performance Monitoring, Decision Support
 * **Business Communication**: Stakeholder Management, Requirements Gathering, Data Storytelling, Business Impact Analysis
 * **Marketing Strategy**: Campaign ROI, KPI Frameworks, Funnel Optimization, A/B Testing, Consumer Segmentation, SEO
